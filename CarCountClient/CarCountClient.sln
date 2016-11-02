@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarCountClient", "CarCountClient\CarCountClient.csproj", "{712FAC24-9CB7-4FD2-9CAC-B5A0EA0EBCC3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CarCountClientSetup", "CarCountClientSetup\CarCountClientSetup.vdproj", "{3EF96A0C-AFA4-4D47-AB0E-127740C80AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{712FAC24-9CB7-4FD2-9CAC-B5A0EA0EBCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712FAC24-9CB7-4FD2-9CAC-B5A0EA0EBCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712FAC24-9CB7-4FD2-9CAC-B5A0EA0EBCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712FAC24-9CB7-4FD2-9CAC-B5A0EA0EBCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF96A0C-AFA4-4D47-AB0E-127740C80AAC}.Debug|Any CPU.ActiveCfg = Debug
+		{3EF96A0C-AFA4-4D47-AB0E-127740C80AAC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
